@@ -1,0 +1,1 @@
+alter table post add column rating int check ( rating>0 and rating<=5 )

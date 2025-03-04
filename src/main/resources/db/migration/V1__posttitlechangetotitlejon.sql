@@ -1,0 +1,1 @@
+alter table post rename title to titlejon;
