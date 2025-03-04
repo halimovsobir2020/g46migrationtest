@@ -19,6 +19,7 @@ public class Post {
     private Integer id;
 
     private String titlejon;
-    private String content;
+    private String body;
+    private Integer rating;
 
 }
