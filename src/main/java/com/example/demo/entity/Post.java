@@ -18,7 +18,7 @@ public class Post {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Integer id;
 
-    private String titlejon;
+    private String title;
     private String body;
     private Integer ratingjon;
 
