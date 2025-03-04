@@ -20,6 +20,6 @@ public class Post {
 
     private String titlejon;
     private String body;
-    private Integer rating;
+    private Integer ratingjon;
 
 }
